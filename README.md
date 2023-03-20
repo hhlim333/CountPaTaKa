@@ -5,7 +5,7 @@ See the [Automatic LInguistic Unit Count Estimator (ALICE)](https://github.com/o
 
 ## Requirements
 
-ALICE has been developed and so-far tested for a range of Linux and macOS environments. Windows users may encounter problems with some package versions, and we are currently looking into this.
+ALICE has been developed and so-far tested for a range of Linux and macOS environments.
 
 Packages:
 
