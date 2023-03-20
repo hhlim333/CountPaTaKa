@@ -48,11 +48,11 @@ Always activate the ALICE conda environment before usage. To do this, run:
   $ conda activate ALICE
 ```
 
-Since ALICE need 16khz sampling rate 
+Since ALICE need 16khz sampling rate and ptk_2.wav has a sampling rate of 44100. 
 
-ptk_2.wav has a sampling rate of 44100. I convert ptk_2.wav audio files to 16kHz before using the ALICE.
+I convert ptk_2.wav audio files to 16kHz before using the ALICE.
 
-To process your .wav files containing the audio of interest, run:
+To process .wav files containing the audio of interest, run:
 ```
   $ ./run_ALICE.sh ptk_2_2.wav
 ```
