@@ -73,7 +73,7 @@ FileID 	 phonemes 	 syllables 	 words
 ptk_2_2	182	94	60
 ```
 
-You can use ALICE read syllables 94.
+You can use ALICE read 94 syllables.
 
 Pa , Ta and Ka each word represent one syllables.
 
