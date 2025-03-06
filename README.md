@@ -1,4 +1,4 @@
-# CountPaTaKa (Test)
+# CountPaTaKa (Test for Asana)
 
 This task is based on ALICE to produce PaTaKa detection<br>
 See the [Automatic LInguistic Unit Count Estimator (ALICE)](https://github.com/orasanen/ALICE) for the reference
